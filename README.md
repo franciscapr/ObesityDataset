@@ -11,15 +11,14 @@ Cada entrada en el conjunto de datos está clasificada con la variable "NObesity
 - Obesidad Tipo I
 - Obesidad Tipo II
 - Obesidad Tipo III
-- 
+  
 Estas clasificaciones permiten una variedad de análisis, incluyendo clasificación, agrupación y regresión, lo que proporciona una comprensión detallada de los patrones de obesidad en las poblaciones de tres países latinoamericanos.
 
 # Utilidad y Aplicaciones
 Este dataset es fundamental para investigadores y profesionales de la salud, ya que facilita:
 
-# Identificación de factores de riesgo asociados con diferentes niveles de obesidad.
-Evaluación de intervenciones preventivas y tratamiento.
-Formulación de políticas de salud pública orientadas a combatir la obesidad y promover estilos de vida saludables.
+- Identificación de factores de riesgo asociados con diferentes niveles de obesidad.
+- Evaluación de intervenciones preventivas y tratamiento.
 
 # Origen y Contexto
 El dataset fue recopilado con el objetivo de mejorar la comprensión y el tratamiento de la obesidad en la población latinoamericana. La información contenida en este conjunto de datos es el resultado de estudios exhaustivos y puede ser utilizada para avanzar en la investigación en el campo de la salud.
